@@ -17,6 +17,7 @@
     "eslint-plugin-react": "^7.14.3",
     "graphql": "^0.13.2",
     "graphql-cli": "^2.16.7",
+    "graphql-config": "^2.2.1",
     "graphql-yoga": "1.16.2",
     "jsonwebtoken": "8.3.0",
     "nodemailer": "^4.6.8",
